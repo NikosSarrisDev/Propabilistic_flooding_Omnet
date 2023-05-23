@@ -1,0 +1,5 @@
+Packet transmissions 377
+
+Number of nodes who reseived a package 50
+
+Network Coverage 100%
